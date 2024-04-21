@@ -1,5 +1,15 @@
 #!/usr/bin/env python
 
+"""
+iner_osci.py
+
+2D Idealized Inertial Oscillation Solver
+
+Sandy Herho <sandy.herho@email.ucr.edu>
+
+04/21/2024
+"""
+
 import numpy as np
 
 # Constants

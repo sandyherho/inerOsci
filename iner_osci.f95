@@ -1,11 +1,11 @@
 PROGRAM iner_osci
 
 !*******************************************
-! Predictions of the path of a water
-! parcel subject to inertial oscillations.
-! 
-! Sandy Herho <sh001@ucr.edu>
-! 04/20/24
+! 2D Idealized Inertial Oscillation Solver !
+! iner_osci.f95			           !
+!					   !
+! Sandy Herho <sh001@ucr.edu>	           !
+! 04/20/24	                           !
 !*******************************************
 
 REAL :: u,v,un,vn,x,y,xn,yn
