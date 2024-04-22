@@ -1,11 +1,11 @@
 ################################################
-# iner_osci.R				       #
-#					       #
+# iner_osci.R				                   #
+#					                           #
 # 2D Idealized Inertial Oscillation Solver     #
-#					       #
+#					                           #
 # Sandy Herho <sandy.herho@email.ucr.edu>      #
 #                                              #
-# 04/21/2024				       #
+# 04/21/2024				                   #
 ################################################
 
 # Constants

@@ -1,3 +1,12 @@
+#=
+iner_osci.jl
+
+2D Idealized Inertial Oscillation Solver
+
+Sandy Herho <sandy.herho@email.ucr.edu>
+04/22/2024
+=#
+
 using LinearAlgebra
 using Printf
 
