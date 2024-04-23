@@ -6,7 +6,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/sandyherho/inerOsci/watchers)
 
 
-This repository contains the code and data associated with the paper titled "Numerical Simulation of the 2D Trajectory of a Non-Buoyant Fluid Parcel under the Influence of Inertial Oscillation" by Herho et al. (2024).
+This repository contains the code and data associated with the paper titled "Numerical Simulation of the 2D Trajectory of a Non-Buoyant Fluid Parcel under the Influence of Inertial Oscillation" by [Sandy H. S. Herho](https://scholar.google.com/citations?user=uYQgjxMAAAAJ&hl=id), [Iwan P. Anwar](https://scholar.google.com/citations?user=NMs_TswAAAAJ&hl=id), [Katarina E. P. Herho](https://scholar.google.com/citations?user=XsjZGN0AAAAJ&hl=id), [Candrasa S. Dharma](https://scholar.google.com/citations?hl=en&user=hSBIVWEAAAAJ), and [Dasapta E. Irawan](https://scholar.google.com/citations?user=Myvc78MAAAAJ&hl=id).
 
 ## Overview
 
