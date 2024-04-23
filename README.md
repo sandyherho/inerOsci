@@ -1,7 +1,6 @@
 # Numerical Simulation of 2D Trajectory of a Non-Buoyant Fluid Parcel under Inertial Oscillation
 
-
-
+[![DOI](https://zenodo.org/badge/789854333.svg)](https://zenodo.org/doi/10.5281/zenodo.11051654)
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/sandyherho/inerOsci/watchers)
