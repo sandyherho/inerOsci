@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 """
 iner_osci.py
 
@@ -6,7 +8,7 @@ iner_osci.py
 Sandy Herho <sandy.herho@email.ucr.edu>
 04/22/2024
 """
-#!/usr/bin/env python
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
