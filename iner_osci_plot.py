@@ -12,6 +12,7 @@ Sandy Herho <sandy.herho@email.ucr.edu>
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
+from matplotlib.animation import ImageMagickWriter  # Import ImageMagickWriter for GIF saving
 
 # Set the 'bmh' style for aesthetic preference
 plt.style.use('bmh')
@@ -49,9 +50,13 @@ def update(n):
     time_text.set_text(f'Time: {times[n]:.2f} days')
     return line, time_text
 
-# Create the animation
-ani = FuncAnimation(fig, update, frames=len(data), init_func=init, blit=True, repeat=True)
+if __name__ == "__main__":
+    # Create the animation
+    ani = FuncAnimation(fig, update, frames=len(data), init_func=init, blit=True, repeat=True)
 
-# Show the plot
-plt.show()
+    # Set up writer for saving animation as GIF
+    writer = ImageMagickWriter(fps=10)  # Adjust fps as needed
+    ani.save('./figs/iner_osci.gif', writer='pillow', fps=10)  # Save animation as a GIF
+
+    plt.show()  # This line is optional, depending on whether you also want to display the plot
 
