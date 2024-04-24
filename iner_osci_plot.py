@@ -27,8 +27,8 @@ ax.set_xlim(0, 30)  # Adjust these limits if necessary
 ax.set_ylim(0, 30)
 ax.set_xticks(np.arange(0, 31, 10))
 ax.set_yticks(np.arange(0, 31, 10))
-ax.set_xlabel('x (km)')
-ax.set_ylabel('y (km)')
+ax.set_xlabel(r'$x$ (cm)')
+ax.set_ylabel(r'$y$ (cm)')
 line, = ax.plot([], [], '-', linewidth=2)  # Line initialized empty
 
 # Add a text element to display the time
